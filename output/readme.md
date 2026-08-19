@@ -10,3 +10,5 @@ collected ultimately starting with 2017. Once that was completed I saved the dat
 looked at some summary level statistics and realized that some of the information could be drastically
 different as far as range of values which was helpful when reconciling the later visuals produced.S
 
+Version control link:
+https://github.com/devlinmacaulay-debug/Hw3_webdata_analysis
